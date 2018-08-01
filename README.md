@@ -1,7 +1,7 @@
 
 ### Note: If you are looking for a PyTorch implementation, please have a look at the pull requests by Jorn Peters and Adam Bielski (https://github.com/tscohen/GrouPy/pulls).
 
-# GrouPy
+# GrouPy for Python 3
 
 GrouPy is a python library that implements group equivariant convolutional neural networks [\[Cohen & Welling, 2016\]](#gcnn) in Chainer and TensorFlow, and supports other numerical computations involving transformation groups.
 
